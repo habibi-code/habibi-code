@@ -45,10 +45,10 @@ AI-powered learning platform featuring:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=habibi-code&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibi-code&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
@@ -57,6 +57,18 @@ AI-powered learning platform featuring:
 <p align="center">
   <a href="https://linkedin.com/in/habib-seid-2b906232a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://facebook.com/profile.php?id=61575198099937" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://t.me/habibcode28" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+  <a href="https://instagram.com/habibcode29" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:habibseid2829@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
