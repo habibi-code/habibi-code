@@ -58,7 +58,7 @@ AI-powered learning platform featuring:
   <a href="https://linkedin.com/in/habib-seid-2b906232a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://facebook.com/profile.php?id=61575198099937" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=61575198099937" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://t.me/habibcode28" target="_blank">
