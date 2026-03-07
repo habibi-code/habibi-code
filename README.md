@@ -27,19 +27,6 @@ Building scalable, AI-powered web applications with modern technologies.
 
 ---
 
-## 🚧 Featured Project
-
-### ASC – AI Study Companion
-AI-powered learning platform featuring:
-
-- 📚 **Note generation from uploaded materials**  
-- 🧠 **Smart summarization**  
-- 📝 **Auto quiz generation**  
-- 🎙️ **Live AI voice assistant**  
-- 👥 **Group collaboration system**  
-- 📊 **Personalized learning dashboard**
-
-> Built with **React, Next.js, Node.js, Tailwind, Express, MongoDB/PostgreSQL/MySQL**, and integrated **Google Gemini AI** APIs for advanced AI features.
 
 ---
 
