@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Habib</h1>
+<h1 align="center">Hey 👋, I'm Mohammed Seid</h1>
 <h3 align="center">AI-Powered Full-Stack Web Developer | Building Intelligent Web Applications 🚀</h3>
 
 <p align="center">
