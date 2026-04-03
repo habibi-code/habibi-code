@@ -11,7 +11,7 @@
 
 - 💻 Full-Stack Developer (PERN Stack)  
 - 🤖 Building AI-powered web applications  
-- 🚀 Currently developing **ASC – AI Study Companion**  
+- 🚀 Currently developing **Ai-powerd full stack Apps**  
 - 🧠 Focused on AI pipelines, LLM integration, automation & scalable systems  
 - 📈 Building in public, shipping real projects  
 
